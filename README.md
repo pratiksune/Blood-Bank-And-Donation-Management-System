@@ -4,7 +4,7 @@ Blood Bank Donation System is a php based web project with both admin and user l
 
 # Installation
 
-1. Install XAMPP or WAMPP.
+1. 
 
 2. Open XAMPP Control panal and start [apache] and [mysql] .
 
